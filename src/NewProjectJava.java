@@ -8,8 +8,5 @@ public class NewProjectJava {
         System.out.println("Количество начисленных миль:" + miles);
 
 
-
-
-
     }
 }
